@@ -3,5 +3,7 @@ build/
 *.elf
 *.out
 *.exe
+*.dSYM/
+*.log
 .vscode/
 .idea/
